@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yasir-rtx
-- 👀 I’m interested in Artificial Intelegence
-- 🌱 I’m currently learning Digital Image Processing
+- 👀 I’m interested in Artificial Intelegence. espesially on machine learning
+- 🌱 I’m currently learning CNN 
 - 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me twitter : @yasir_rtx, IG : @yasir_rtx
 
